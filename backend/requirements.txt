@@ -1,0 +1,16 @@
+python-dotenv==1.0.0
+chromadb==0.5.0
+numpy==1.26.4
+django==4.2
+djangorestframework==3.14.0
+pymupdf==1.22.3
+pypdf
+django-cors-headers
+langchain
+langchain_community
+langchain-chroma
+sentence-transformers
+torch
+transformers
+llama-cpp-python
+django-cors-headers
