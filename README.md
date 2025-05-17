@@ -1,3 +1,6 @@
+## 🖼️ Screenshot
+![image](https://github.com/user-attachments/assets/80e46bf9-ec29-407b-a9c9-b6e25e938084)
+
 # RAG Chatbot System
 
 A Retrieval-Augmented Generation (RAG) system built with Django, React, and LangChain.
